@@ -149,7 +149,7 @@ i:hover {
      height: 2px;
      border-radius: 5px;
      bottom: -10%;
-     animation: style-1 7s ease-in-out infinite;
+     animation: style-1 2s ease-in-out infinite;
      transition: all 3s ease-in-out;
 
 }
@@ -273,7 +273,9 @@ i:hover {
      .social-links {
           margin-bottom: 22px;
      }
-
+     .container {
+          background-position: 120% 120%;
+     }
 
 }
 
