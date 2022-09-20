@@ -126,6 +126,7 @@ i:hover {
      border-radius: 50px;
      font-size: 20px;
      font-weight: 500;
+     background-image: -webkit-linear-gradient(to top, #7779f5 0%, #2143c1 100%);
      background-image: linear-gradient(to top, #7779f5 0%, #2143c1 100%);
      transition: all 0.2s ease-in-out;
 }
@@ -148,7 +149,7 @@ i:hover {
      height: 2px;
      border-radius: 5px;
      bottom: -10%;
-     animation: style-1 2s ease-in-out infinite;
+     animation: style-1 7s ease-in-out infinite;
      transition: all 3s ease-in-out;
 
 }
@@ -238,6 +239,7 @@ i:hover {
      100% {
           width: 100%;
      }
+
 }
 
 /* MEDIA-QUERY */
