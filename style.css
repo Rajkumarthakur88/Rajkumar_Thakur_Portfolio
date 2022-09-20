@@ -131,9 +131,10 @@ i:hover {
      transition: all 0.2s ease-in-out;
 }
 
-.contact-btn a {
+.contact-btn {
      text-decoration: none;
      color: white;
+     text-align: center;
 }
 
 .contact-btn:hover {
